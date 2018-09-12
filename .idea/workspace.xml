@@ -35,8 +35,8 @@
       <file leaf-file-name="mailing.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/mailing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="153">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -56,6 +56,7 @@
         <option value="$PROJECT_DIR$/src/main.py" />
         <option value="$PROJECT_DIR$/src/UsingClass.py" />
         <option value="$PROJECT_DIR$/src/email.py" />
+        <option value="$PROJECT_DIR$/src/mailing.py" />
       </list>
     </option>
   </component>
@@ -215,15 +216,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32933104" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32933104" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32933104" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32933104" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32933104" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39965695" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -295,7 +297,7 @@
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/smtplib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="641" selection-start-line="641" selection-end-line="641" />
+          <caret line="433" column="8" selection-start-line="433" selection-start-column="8" selection-end-line="433" selection-end-column="8" />
           <folding>
             <element signature="e#1343#1356#0" expanded="true" />
           </folding>
@@ -304,8 +306,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mailing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>

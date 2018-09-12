@@ -1,9 +1,9 @@
 import smtplib
 
 
-gmail_user = "abhinav.bhardwaj05@gmail.com"
-gmail_pwd = "amplitude"
-TO = 'razzabhu@gmail.com'
+gmail_user = "test@gmail.com"
+gmail_pwd = "xyz"
+TO = 'test2@gmail.com'
 SUBJECT = "Testing sending using gmail"
 TEXT = "Testing sending mail using gmail servers"
 server = smtplib.SMTP('smtp.gmail.com', 587)
